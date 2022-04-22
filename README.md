@@ -10,6 +10,8 @@ This workshop will cover how to use the Power BI tool to gain some basic insight
 - 3 ways to make visualizations in the Report View  
 - Formatting your visualizations  
   
+Estimated workshop length: 2 hours
+  
 ----
 ## Setup Instructions
 In preparation for this workshop, you will need to install Power BI Desktop on your computer.  Keep in mind that Power BI Desktop is **not Mac compatible** so if you want to participate in this workshop you will need to use a windows computer or set up a windows environment on your Mac computer.  
