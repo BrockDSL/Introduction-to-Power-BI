@@ -25,7 +25,7 @@ If you do not already have the program you can get it by following these steps (
 ## Workshop Tasks
 
 **Task Set #1**  
-Link to first dataset:  
+Link to first dataset:  https://github.com/BrockDSL/Introduction-to-Power-BI/blob/master/Mahogany%20Mary%202018%20Sales%20Data.xlsx?raw=true
 
 1. Open Power BI and connect to the dataset using the web connector  
 2. Open the Power Query Editor using the "Transform Data" button  
@@ -40,7 +40,7 @@ Link to first dataset:
 
   
 **Task Set #2**  
-Link to second dataset:  
+Link to second dataset:  https://github.com/BrockDSL/Introduction-to-Power-BI/blob/master/Customer%20Satisfaction%20Mahogany%20Mary%202018.xlsx?raw=true
 
 1. Connect to the new dataset
 2. Check that all of the data types are correct using the Power Query Editor
