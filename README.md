@@ -1,9 +1,16 @@
-![Tool Logo](Image filename)
+![Tool Logo](Intro-PowerBI.jpg)
 
 
-# Title of Workshop
-Description of workshop including what you will learn and any tools that will be used in the process
+# Introduction to Power BI
+This workshop will cover how to use the Power BI tool to gain some basic insights into our data and create visualizations that convey those insights.  Topics covered will include:
 
+- Connecting your data to Power BI  
+- Adjusting and understanding your data using the Power Query Editor  
+- Connecting datasets using the Model view  
+- 3 ways to make visualizations in the Report View  
+- Formatting your visualizations  
+  
+----
 ## Setup Instructions
 In preparation for this workshop, you will need...
 
