@@ -25,7 +25,7 @@ If you do not already have the program you can get it by following these steps (
 ## Workshop Tasks
 
 **Task Set #1**  
-Link to first dataset:  
+URL for first dataset:  
 
 ```
 https://raw.githubusercontent.com/BrockDSL/Introduction-to-Power-BI/master/Mahogany%20Mary%202018%20Sales%20Data.csv
@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/BrockDSL/Introduction-to-Power-BI/master/Mahog
 
   
 **Task Set #2**  
-Link to second dataset:  
+URL for second dataset:  
 
 ```
 https://raw.githubusercontent.com/BrockDSL/Introduction-to-Power-BI/master/Customer%20Satisfaction.csv
