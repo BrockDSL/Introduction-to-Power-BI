@@ -1,5 +1,3 @@
-Add in the workshop image here using the referential link at the bottom of the README file
-
 ![Tool Logo](Image filename)
 
 
