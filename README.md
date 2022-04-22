@@ -79,7 +79,7 @@ https://raw.githubusercontent.com/BrockDSL/Introduction-to-Power-BI/master/Custo
 
 ----
 
-## Follow Up Material
+## Next Steps
 If you want to delve deeper into what Power BI is capable of, I recommend checking out the official [Power BI learning paths](https://docs.microsoft.com/en-us/learn/powerplatform/power-bi).  
 
  
