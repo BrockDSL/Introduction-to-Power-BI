@@ -31,7 +31,7 @@ Link to first dataset:
 2. Open the Power Query Editor using the "Transform Data" button  
 3. Check that all of the data types are correct and fix any that are not  
 4. Sort the data by product  
-5. Find a potential error in the data.  Once you find one, let us know in the chat what it is and why it might have occured  
+5. Find a potential error in the data.  Once you find one, let us know in the chat what it is and why it might have occurred  
 6. Undo your sort using the Applied Steps menu  
 7. Calculate 2 new columns:   
  A column for Tax Paid (Sale Total*taxrate/(100+taxrate))  
