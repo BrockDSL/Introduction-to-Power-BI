@@ -10,7 +10,7 @@ This workshop will cover how to use the Power BI tool to gain some basic insight
 - 3 ways to make visualizations in the Report View  
 - Formatting your visualizations  
   
-Estimated workshop length: 2 hours
+*Estimated workshop length: 2 hours*
   
 ----
 ## Setup Instructions
