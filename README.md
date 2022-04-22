@@ -12,14 +12,14 @@ This workshop will cover how to use the Power BI tool to gain some basic insight
   
 ----
 ## Setup Instructions
-In preparation for this workshop, you will need...
+In preparation for this workshop, you will need to install Power BI Desktop on your computer.  Keep in mind that Power BI Desktop is **not Mac compatible** so if you want to participate in this workshop you will need to use a windows computer or set up a windows environment on your Mac computer.  
+If you do not already have the program you can get it by following these steps (keep in mind that you may need to contact your institution for permission to install programs):
 
-Include:
- - All software that needs to be downloaded
- - Any accounts that will need to be made including links to the sign up pages for those accounts
- - All files that will need to be downloaded in order to participate in the workshop as well as instructions on exactly how to download them.  
+- Go to the [Power BI Desktop download page](https://www.microsoft.com/en-us/download/details.aspx?id=58494) and choose which language you prefer 
+- Click the "Download" button and choose the installer that works for your computer  
+- Once the download is complete, run the installer and follow the instructions in the setup wizard  
+- With that you should be good to go!  
 
-For all of the above, keep in mind that some of our attendees could be using machines on campus and therefore might have limitations in regards to downloading tools and files.
 
 ## Helpful Materials
 Add in any helpful resources, code snippets, cheat sheets, or other relevant information here.
