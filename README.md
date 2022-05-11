@@ -39,9 +39,9 @@ https://raw.githubusercontent.com/BrockDSL/Introduction-to-Power-BI/master/Mahog
 4. Sort the data by product  
 5. Find a potential error in the data.  Once you find one, let us know in the chat what it is and why it might have occurred  
 6. Undo your sort using the Applied Steps menu  
-7. Calculate 2 new columns:   
- A column for Tax Paid (Sale Total*taxrate/(100+taxrate))  
- A column for Profit (Sale Total minus Tax Paid)  
+7. Calculate 2 new columns:  
+  A column for Profit (SaleTotal/(1+taxrate))
+  A column for Tax Paid (Sale Total minus Profit)
 8. Save your changes and close the editor.  Once you do this, type "SAVED" in the chat  
 
   
