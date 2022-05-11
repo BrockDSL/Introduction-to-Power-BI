@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/BrockDSL/Introduction-to-Power-BI/master/Mahog
 URL for second dataset:  
 
 ```
-https://raw.githubusercontent.com/BrockDSL/Introduction-to-Power-BI/master/Customer%20Satisfaction.csv
+https://raw.githubusercontent.com/BrockDSL/Datasets-for-the-Power-BI-Workshops/master/Practice%20Data/Customer%20Satisfaction.csv
 ```  
 
 1. Connect to the new dataset
