@@ -2,11 +2,14 @@
 
 
 # Introduction to Power BI
-In this workshop attendees will learn how to use the Power BI tool to gain some basic insights into data and create visualizations that convey those insights.  This workshop covers how to connect data to Power BI, adjusting and understanding data using the Power Query Editor, connecting datasets using the Model view,
-3 ways to make visualizations in the Report View, and how to adjust and enhance data using the format and analytics menus.  
- 
- No prior knowledge of Power BI is needed for this workshop.
- 
+This workshop will cover how to use the Power BI tool to gain some basic insights into our data and create visualizations that convey those insights.  Topics covered will include:
+
+- Connecting your data to Power BI  
+- Adjusting and understanding your data using the Power Query Editor  
+- Connecting datasets using the Model view  
+- 3 ways to make visualizations in the Report View  
+- Formatting your visualizations  
+  
 *Estimated workshop length: 2 hours*
   
 ----
