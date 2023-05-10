@@ -30,7 +30,7 @@ If you do not already have the program you can get it by following these steps (
 URL for first dataset:  
 
 ```
-https://raw.githubusercontent.com/BrockDSL/Introduction-to-Power-BI/master/Mahogany%20Mary%202018%20Sales%20Data.csv
+https://raw.githubusercontent.com/BrockDSL/Datasets-for-the-Power-BI-Workshops/master/Practice%20Data/Mahogany%20Mary%202018%20Sales%20Data.csv
 ```  
 
 1. Open Power BI and connect to the dataset using the web connector  
