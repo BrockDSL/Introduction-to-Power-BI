@@ -42,7 +42,8 @@ https://raw.githubusercontent.com/BrockDSL/Introduction-to-Power-BI/master/Mahog
 7. Calculate 2 new columns:  
   A column for Profit (SaleTotal/(1+taxrate))
   A column for Tax Paid (Sale Total minus Profit)
-8. Save your changes and close the editor.  Once you do this, type "SAVED" in the chat  
+8. Adjust the data types for you new columns
+9. Save your changes and close the editor.  Once you do this, type "SAVED" in the chat  
 
   
 **Task Set #2**  
