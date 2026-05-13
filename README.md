@@ -86,9 +86,3 @@ https://raw.githubusercontent.com/BrockDSL/Datasets-for-the-Power-BI-Workshops/m
 If you want to delve deeper into what Power BI is capable of, I recommend checking out the official [Power BI learning paths](https://docs.microsoft.com/en-us/learn/powerplatform/power-bi).  
 
  
- 
- 
-----
-  
-**This workshop is brought to you by the Brock University Digital Scholarship Lab.  For a listing of our upcoming workshops go to [Experience BU](https://experiencebu.brocku.ca/organization/dsl) if you are a Brock affiliate or [Eventbrite page](https://www.eventbrite.ca/o/brock-university-digital-scholarship-lab-21661627350) for external attendees.**
-
